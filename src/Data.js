@@ -1,0 +1,73 @@
+let shopData = [
+    {   
+      id:'frDq5QhtNvByG2AV2nN8gs',
+      name: 'Elyte XBass',
+      price: 715.99,
+      desc: 'Premium wireless earbuds with exceptional sound quality',
+      img: 'img/bud-one.png',
+    },
+    {
+      id: 'tkYrbbSgdRLghDLemGUPMX',
+      name: 'Jummo Pro',
+      price: 329,
+      desc: 'Professional-grade noise-canceling earphones for an immersive audio experience',
+      img: 'img/bud-two.png',
+    },
+    {
+      id: 'rgVqAtA8SPviLtMK8CTvMs',
+      name: 'Aktive',
+      price: 312.49,
+      desc: 'Stay active and connected with our Bluetooth earpiece designed for sports enthusiasts',
+      img: 'img/bud-three.png',
+    },
+    {
+      id: 'oFJt3HQ92SpizxpWcoyNWc',
+      name: 'Cleo Stereo',
+      price: 449.99,
+      desc: 'Experience classic stereo sound with our stylish and comfortable wireless earbuds',
+      img: 'img/bud-four.png',
+    },
+    {
+      id: 'rxn2FkAEjRqf4Tr6K4wgQk',
+      name: 'HarmonyVibe X1',
+      price: 714,
+      desc: 'Experience deep bass and clear sound with the HarmonyVibe X1, delivering an immersive and enjoyable audio experience',
+      img: 'img/bud-five.png',
+    },
+    {
+      id: 'EZ9t7x2ibymK5t9wWu83',
+      name: 'PulseSync 360',
+      price: 917.49,
+      desc: 'Immerse yourself in 360 degrees of sound with PulseSync, delivering an immersive and dynamic audio experience',
+      img: 'img/bud-six.png',
+    },
+    {
+      id: 'CMDG6y9ufdDCq5XmZdjR6',
+      name: 'UrbanBeats Pro',
+      price: 564.99,
+      desc: 'Power your urban lifestyle with UrbanBeat, delivering high-energy beats and an immersive audio experience',
+      img: 'img/bud-seven.png',
+    },
+    {
+      id: 'FmsQu5EnA74aQGcWZ84D',
+      name: 'EchoSonic FusionX',
+      price: 1120,
+      desc: 'Dive into dynamic sonic fusion with EchoSonic, offering a unique blend of audio technologies for a captivating listening experience',
+      img: 'img/bud-eight.png',
+    },
+    {
+      id: 'qfqY85AMfZaF16xXc986bg',
+      name: 'Nova AirTunes',
+      price: 816,
+      desc: 'Sculpt your auditory experience with Nova AirTunes, delivering precise audio sculpting for a personalized and immersive listening journey',
+      img: 'img/bud-nine.png',
+    },
+    {
+      id: 'oKFWMNEVwScGJXwoJATFjB',
+      name: 'ZenVibes Pro 3',
+      price: 1.315,
+      desc: 'Find serenity in your music with ZenVibes, offering a balanced and harmonious audio experience for your enjoyment',
+      img: 'img/bud-ten.png',
+    },
+  ];
+  

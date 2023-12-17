@@ -1,0 +1,14 @@
+{
+  "name": "budsville",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./style.css -o ./dist/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.6"
+  }
+}
