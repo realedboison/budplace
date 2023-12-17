@@ -24,8 +24,8 @@ Visit the site: [Buds Bud](https://buds-bud.netlify.app/)
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+
+- TailwindCSS
 - JavaScript
 - [Netlify](https://www.netlify.com/) for hosting
 
