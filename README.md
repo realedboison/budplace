@@ -1,37 +1,50 @@
-Buds Bud - Your Online Flower Shop
-Buds Bud Logo
+# Budspace - Your Online Wireless Earbud Shopping Cart 
 
-Description
-Buds Bud is an online flower shop where you can explore a variety of beautiful flowers and place orders for delivery. This website is designed to provide an easy and delightful shopping experience for flower enthusiasts.
 
-Visit the site: Buds Bud
 
-Features
-Extensive Flower Collection: Browse through a diverse collection of flowers.
-Easy Navigation: User-friendly interface for seamless exploration.
-Secure Checkout: Place orders with confidence through our secure checkout process.
-Screenshots
-Screenshot 1
-Caption for Screenshot 1
+## Description
 
-Screenshot 2
-Caption for Screenshot 2
+Buds Bud is an online earbuds shop where you can explore a variety of earbuds and add them to cart. 
 
-Getting Started
-Visit the site: Buds Bud.
-Explore the beautiful flower collections.
-Add your favorite flowers to the cart.
-Proceed to the secure checkout for a delightful shopping experience.
-Technologies Used
-HTML5
-CSS3
-JavaScript
-Netlify for hosting
-Contributing
-If you'd like to contribute to the development of Buds Bud, feel free to fork the repository and submit a pull request.
+Visit the site: [Buds Bud](https://buds-bud.netlify.app/)
 
-Issues and Feedback
-If you encounter any issues or have feedback, please open an issue on GitHub.
+## Features
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+- *Add to Cart, Clear Cart*.
+- *Increase and Decrease Quantity*.
+- *Remove Items from cart*.
+
+
+## Getting Started
+
+1. Visit the site: [Buds Bud](https://buds-bud.netlify.app/).
+2. Explore the wireless earbud collections.
+3. Add your favorite buds to the cart.
+4. Add and remove earbuds.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- [Netlify](https://www.netlify.com/) for hosting
+
+## Installation
+
+No installation is required to use Buds Bud as it is a web-based application. Simply visit [Buds Bud](https://buds-bud.netlify.app/) to get started.
+
+## Contributing
+
+If you'd like to contribute to the development of Buds Bud, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with descriptive commit messages.
+4. Push your changes to your fork.
+5. Submit a pull request.
+
+## Issues and Feedback
+
+If you encounter any issues or have feedback, please [open an issue](https://github.com/your-username/buds-bud/issues) on GitHub.
+
+
